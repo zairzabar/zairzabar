@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ouzair Ahmed Ansari</h1>
-<h3 align="center">Aspiring frontend developer from Mumbai India</h3>
+<h3 align="center">Frontend Developer in making from Mumbai India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zairzabar&label=Profile%20views&color=0e75b6&style=flat" alt="zairzabar" /> </p>
 
