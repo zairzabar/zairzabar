@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript DSA and Algo**
 
-- 🤝 I’m looking for help with **JavaScript concepts**
+- 🤝 I’m looking to strenghten the **JavaScript concepts**
 
 - 📫 How to reach me **ouzair.ansari.7@outlook.com**
 
