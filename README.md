@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to strenghten the **JavaScript concepts**
 
-- 📫 How to reach me **ouzair.ansari.7@outlook.com**
+- 📫 How to reach me **ouzair.ansari.7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
