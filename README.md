@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ouzair Ahmed Ansari</h1>
-<h3 align="center">Frontend Developer in making from Mumbai India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zairzabar&label=Profile%20views&color=0e75b6&style=flat" alt="zairzabar" /> </p>
 
@@ -11,7 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dev_zedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_zedd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ouzair-ansari-a44978222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ouzair-ansari-a44978222" height="30" width="40" /></a>
 <a href="https://instagram.com/zabar_zair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zabar_zair" height="30" width="40" /></a>
 </p>
