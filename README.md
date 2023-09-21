@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zairzabar&label=Profile%20views&color=0e75b6&style=flat" alt="zairzabar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hxnteraa" target="blank"><img src="https://img.shields.io/twitter/follow/dev_zedd?logo=twitter&style=for-the-badge" alt="hxnteraa" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript DSA and Algo**
 
 - 🤝 I’m looking to strenghten the **JavaScript concepts**
